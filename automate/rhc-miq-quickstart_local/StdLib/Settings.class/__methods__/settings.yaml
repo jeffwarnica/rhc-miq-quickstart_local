@@ -1,0 +1,17 @@
+---
+object_type: method
+version: 1.0
+object:
+  attributes:
+    name: Settings
+    display_name: Settings
+    description: 
+    scope: instance
+    language: ruby
+    location: inline
+    embedded_methods:
+    - "/RedHatConsulting_Utilities/StdLib/Settings/settingsstore"
+    - "/rhc-miq-quickstart/StdLib/Settings/settingsstore"
+    - "/Lab/StdLib/Settings/settingsstore"
+    options: {}
+  inputs: []
